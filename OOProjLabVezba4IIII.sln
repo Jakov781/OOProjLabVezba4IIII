@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOProjLabVezba4IIII", "OOProjLabVezba4IIII\OOProjLabVezba4IIII.csproj", "{30A74E80-624D-4735-84D9-499E9101CE36}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vozaci", "Vozaci\Vozaci.csproj", "{7D13F1AD-819A-4E53-90B3-A16D5977DCA3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30A74E80-624D-4735-84D9-499E9101CE36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30A74E80-624D-4735-84D9-499E9101CE36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30A74E80-624D-4735-84D9-499E9101CE36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30A74E80-624D-4735-84D9-499E9101CE36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D13F1AD-819A-4E53-90B3-A16D5977DCA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D13F1AD-819A-4E53-90B3-A16D5977DCA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D13F1AD-819A-4E53-90B3-A16D5977DCA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D13F1AD-819A-4E53-90B3-A16D5977DCA3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DC174E8E-20A9-450B-A079-153A47D9E274}
+	EndGlobalSection
+EndGlobal
